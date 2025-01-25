@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250124_chiangrai/20250124_003.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250124_chiangrai/20250124_016.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -173,7 +173,7 @@ p.note { display: none; }
 <h2><span class="yellow">ニワトリのめんどりも、ひな20羽の子育て中</span></h2>
 <a href="20250124_009.JPG" target="_blank"><img src="20250124_009.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">ネズミやトカゲには容赦無い猫ちゃんも<br>新しい命には敬意を表して見守りモード</span></h2>
+<h2><span class="yellow">ネズミやトカゲには容赦無い猫ちゃんも<br>新しい命には敬意を表して見守りモード<br>画像クリックで動画再生します ↓</span></h2>
 <a href="https://youtube.com/shorts/dFbwhbi4svw?feature=share" target="_blank"><img src="20250124_002.png” alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">塀の上では猫が夕陽を眺めます</span></h2>
