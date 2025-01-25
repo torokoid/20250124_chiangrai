@@ -174,7 +174,7 @@ p.note { display: none; }
 <a href="20250124_009.JPG" target="_blank"><img src="20250124_009.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ネズミやトカゲには容赦無い猫ちゃんも<br>新しい命には敬意を表して見守りモード</span></h2>
-<a href="https://youtube.com/shorts/dFbwhbi4svw?feature=share" target="_blank"><img src="20250124_001.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/dFbwhbi4svw?feature=share" target="_blank"><img src="20250124_002.png” alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">塀の上では猫が夕陽を眺めます</span></h2>
 <a href="20250124_010.JPG" target="_blank"><img src="20250124_010.JPG" alt="サンプル画像" width="900" /></a>
