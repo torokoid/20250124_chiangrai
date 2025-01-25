@@ -145,8 +145,8 @@ p.note { display: none; }
 <a href="yokota_007.JPG" target="_blank"><img src="yokota_007.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ご本人の希望通り、メコン川に散骨しました</span></h2>
-<a href="yokota_001.png” target="_blank"><img src="yokota_001.png” alt="サンプル画像" width="900" /></a>
-<a href="yokota_002.png” target="_blank"><img src="yokota_002.png” alt="サンプル画像" width="900" /></a>
+<a href="yokota_001.jpeg” target="_blank"><img src="yokota_001.jpeg” alt="サンプル画像" width="900" /></a>
+<a href="yokota_002.jpeg” target="_blank"><img src="yokota_002.jpeg” alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">散骨の場所はこちら</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1737725317089!6m8!1m7!1sua91AI6XqYuc_h6zNiZ6QA!2m2!1d20.27418900112421!2d100.0880265522161!3f64.73753692811357!4f3.9349586245716637!5f0.9119108722111607" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
